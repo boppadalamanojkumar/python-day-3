@@ -35,3 +35,6 @@ for i in range(5):    #repeats 5 times.
     t.backward(100)   #forward or backwoed used for draws each side (100 pixels long)
     t.left(144)       #left or right turns the turtle by 144°, creating the star shape.
 turtle.done
+
+
+t.color(red)         #used for courser color
