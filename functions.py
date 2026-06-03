@@ -1,3 +1,5 @@
+##print(), input(), type(), int(), float(), str(), bool(), len(), range(), list(), tuple(), set(), dict(), max(), min(), sum(), abs(), round(), sorted(), enumerate()
+
 marks=[10,20,30,40]
 print("length:",len(marks))                #length:4
 print("sum:",sum(marks))                   #sum:100
